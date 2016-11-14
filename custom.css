@@ -1,0 +1,31 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.jumbotron {
+	background-image: url('../images/galaxy.jpg');
+}
+.box {
+  background-color: black;
+  padding:9px;
+  width:45%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:20px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+}
+.btnList {
+  margin-top:10px;
+}
+.btn-default {
+  background-color: black;
+  color:white;
+  border-color:silver;
+  font-size:1em;
+}
+h {
+  color:white;
+  font-size: 2em;
+}
