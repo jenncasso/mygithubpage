@@ -4,7 +4,7 @@ body {
   padding-bottom: 20px;
 }
 .jumbotron {
-	background-image: url('../images/galaxy.jpg');
+	background-image: url('galaxy.jpg');
 }
 .box {
   background-color: black;
